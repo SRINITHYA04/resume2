@@ -1,0 +1,40 @@
+.title{
+    background-color: #FFCBCB;
+}
+
+.resume{
+    margin-top:100px ;
+
+}
+.resume> .middle> img{
+    border-radius: 50%;
+    border: #8d16ab solid 5px;
+    /* margin-bottom: 10px ; */
+}
+.resume>.middle>h3{
+    color:#102C57;
+    margin-top: 50px;
+}
+.resume>.middle>p{
+    color: #1679AB;
+    margin-top: 40px;
+}
+.skills{
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+.skills h2{
+    margin-top: 50px;
+    color: #102C57;
+    margin-top: 10px;
+}
+.end>a{
+    color: #102C57;
+    text-decoration: none;
+    padding: 10px 20px;
+    height: 50px;
+}
+.end{
+    background-color: #FFB1B1;
+    color: #102C57;
+}
